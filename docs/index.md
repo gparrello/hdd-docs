@@ -1,1 +1,1 @@
-[Technical Rider](/hdd-docs/tech_rider)
+[Technical Rider](/hdd-docs/tech-rider)
