@@ -1,2 +1,1 @@
-# Stage Plot
-# Mic & Patch
+[Technical Rider](/tech_rider)
