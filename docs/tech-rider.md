@@ -1,2 +1,0 @@
-# Stage Plot
-# Mic & Patch
